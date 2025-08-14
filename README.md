@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Antônio Carlos!
 
-<!--
-**Antoniocrvg19/Antoniocrvg19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="300"/>
 
-Here are some ideas to get you started:
+💻 **Apaixonado por tecnologia** e atualmente me aprofundando na linguagem **Python**.  
+📚 Foco em **desenvolvimento de scripts**, **automação de tarefas** e **projetos práticos**.  
+🚀 Sempre buscando aprender, criar e compartilhar conhecimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Minhas metas com Python
+- 📌 Criar projetos úteis e práticos.
+- 📌 Melhorar minhas habilidades em lógica de programação.
+- 📌 Contribuir para projetos open-source.
+- 📌 Aprender bibliotecas populares como **Pandas**, **Flask** e **Tkinter**.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagem principal:** Python 🐍  
+- Git & GitHub  
+- VS Code  
+- Linux & Windows  
+
+---
+
+## 📂 Projetos em Destaque
+- 🧮 [Calculadora Simples em Python](https://github.com/seuusuario/calculadora-python)  
+- 📊 *Em breve: Projetos de análise de dados*
+
+---
+
+## 🌐 Onde me encontrar
+[![LinkedIn] https://www.linkedin.com/in/antonio-carlos-418953260/
+[![GitHub] https://github.com/Antoniocrvg19
+
+---
+
+💡 *"O segredo do sucesso é a consistência nos pequenos passos todos os dias."*
