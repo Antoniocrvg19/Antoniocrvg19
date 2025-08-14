@@ -30,9 +30,15 @@
 
 ---
 
-## 🌐 Onde me encontrar
-[![LinkedIn] https://www.linkedin.com/in/antonio-carlos-418953260/
-[![GitHub] https://github.com/Antoniocrvg19
+<p align="center">
+  <a href="https://www.linkedin.com/in/antonio-carlos-418953260/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="50" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Antoniocrvg19" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="50" alt="GitHub">
+  </a>
+</p>
 
 ---
 
